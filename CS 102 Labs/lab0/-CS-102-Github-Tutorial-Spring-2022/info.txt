@@ -1,0 +1,19 @@
+Gün Taştan - 22101850 - https://github.com/guntastan
+
+My favourite video game is Mount & Blade: Bannerlord.
+
+PS C:\Users\GÜN\Desktop\Gün\CS 102 Labs\-CS-102-Github-Tutorial-Spring-2022> git log
+commit 1287d9a10decaf4895a1d1eb84838e9f1fe93df8 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 9fabb33 f875cab
+Author: Gün Taştan <91385654+guntastan@users.noreply.github.com>
+Date:   Thu Feb 10 10:33:00 2022 +0300
+
+    Merge pull request #1 from guntastan/new_information
+    
+    Creating a pull request to merge two branches.
+
+commit f875cab27238a548f96453eb28e8edb09bb90223 (origin/new_information, new_information)
+Author: guntastan <guntastan@gmail.com>
+Date:   Thu Feb 10 10:15:32 2022 +0300
+
+    Video Game name is added
